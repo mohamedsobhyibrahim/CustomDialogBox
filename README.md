@@ -8,7 +8,7 @@ In this code I show you how to create a custom dialog box that can execute metho
 - Alert Dialog
 
 # Images
-<img src="images/pic1.png" height="400" width="300">
+<img src="images/pic1.png" height="400" width="200">
 
 # Author
 
